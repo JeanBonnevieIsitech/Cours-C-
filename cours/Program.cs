@@ -47,9 +47,9 @@ namespace cours
 
             // parcour des tableaux
 
-            for (int i=0; i < Tableau.Length; i++)
+            for (int i=0; i < Tableau.Length-1; i++)
             {
-                for (int j=0;j< Tableau[i].Length; j++)
+                for (int j=0;j< Tableau[i].Length-1; j++)
                 {
                     Console.WriteLine(Tableau[i][j]);
                 }

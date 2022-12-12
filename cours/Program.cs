@@ -18,7 +18,7 @@ namespace cours
 
         static void Main(string[] args)
         {
-
+            // Enum
             Couleur rouge = Couleur.Rouge;
 
             if (rouge == Couleur.Rouge)
@@ -26,7 +26,7 @@ namespace cours
                 Console.WriteLine("La couleur est rouge");
             }
 
-
+            // Tableau mono dimension
             int[] montablo = new int[] { 14, 18, 39, 45 };
 
             foreach (int i in montablo) 
@@ -38,6 +38,24 @@ namespace cours
             {
                 Console.WriteLine(montablo[i]);
             }
+
+            // Tableau multi dimension
+
+            int[][] Tableau = new int[3][];
+            Tableau[0] = new int[] { 45, 2 };
+            Tableau[1] = new int[] { 34, 34, 4, 67 };
+
+            // parcour des tableaux
+
+            for (int i=0; i < Tableau.Length; i++)
+            {
+                for (int j=0;j< Tableau[i].Length; j++)
+                {
+                    Console.WriteLine(Tableau[i][j]);
+                }
+            }
+
+
         }
     }
 }

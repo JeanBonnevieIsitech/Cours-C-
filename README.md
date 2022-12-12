@@ -14,7 +14,7 @@ enum LesJoursDeLaSemaine{
 
 LesJoursDeLaSemaine Weekend = LesJoursDeLaSemaine.Samedi | LesJoursDeLaSemaine.Dimanche;
 
-/* Les enums permettent de définir un ensemble de valeur prédéfini */
+/* Une Enumeration permet de définir un ensemble de valeur prédéfini */
 ```
 
 #### Les Tableaux
@@ -41,14 +41,4 @@ LesJoursDeLaSemaine Weekend = LesJoursDeLaSemaine.Samedi | LesJoursDeLaSemaine.D
     /* Ce sont l'instanciation des tableaux qui sont différentes */
     
     //Tentez de parcourir des tableaux multidimensionnels avec des boucles for
-    /*
-                foreach (int i in montablo) 
-            {
-                Console.WriteLine(i);
-            }
-
-            for (int i = 0; i<montablo.Length; i++)
-            {
-                Console.WriteLine(montablo[i]);
-            }*/
 ```

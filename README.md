@@ -41,6 +41,8 @@ LesJoursDeLaSemaine Weekend = LesJoursDeLaSemaine.Samedi | LesJoursDeLaSemaine.D
     /* Ce sont l'instanciation des tableaux qui sont différentes */
     
     //Tentez de parcourir des tableaux multidimensionnels avec des boucles for
+    
+    (Voir cours/Program.cs) 
 ```
 
 # Questions API

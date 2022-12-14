@@ -38,7 +38,7 @@ LesJoursDeLaSemaine Weekend = LesJoursDeLaSemaine.Samedi | LesJoursDeLaSemaine.D
     Tableau[1] = new int[] {34, 34, 4, 67};
 
     //Expliquez la différence entre ces syntaxes
-    /* Ce sont l'instanciation des tableaux qui sont différentes */
+    /* C'est l'instanciation des tableaux qui est différente */
     
     //Tentez de parcourir des tableaux multidimensionnels avec des boucles for
     

@@ -42,3 +42,9 @@ LesJoursDeLaSemaine Weekend = LesJoursDeLaSemaine.Samedi | LesJoursDeLaSemaine.D
     
     //Tentez de parcourir des tableaux multidimensionnels avec des boucles for
 ```
+
+# Questions API
+### Qu'es qu'un ORM ?
+Un orm est un outil de programmation (framework) qui permet de traduire des objet d'un language de programmation dans une base de donnée
+
+Concrètement cela permet de convertir une class en table de manière transparente pour le programmeur

@@ -42,8 +42,9 @@ LesJoursDeLaSemaine Weekend = LesJoursDeLaSemaine.Samedi | LesJoursDeLaSemaine.D
     
     //Tentez de parcourir des tableaux multidimensionnels avec des boucles for
     
-    (Voir cours/Program.cs) 
+
 ```
+    (Voir cours/Program.cs) 
 
 # Questions API
 ### Qu'es qu'un ORM ?
